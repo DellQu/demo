@@ -1,0 +1,10 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: springboot-cache-demo
+  # 配置缓存,初始缓存容量,最大容量,过期时间(这里配置写入后过期时间)
+  cache:
+    type: caffeine
+    caffeine:
+      spec: initialCapacity=10,maximumSize=200,expireAfterWrite=3s
