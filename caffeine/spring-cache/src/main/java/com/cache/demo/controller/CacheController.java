@@ -23,8 +23,7 @@ public class CacheController {
 
     @PostMapping(value = "/get")
     public String getCache() {
-        String cache = cacheService.getCache();
+        String cache = cacheService.get("test");
         return cache;
     }
-
 }

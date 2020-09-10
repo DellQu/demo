@@ -10,11 +10,11 @@ import org.springframework.stereotype.Component;
  * @Date: 2020/9/8 17:59
  * @Version: 1.0
  */
-@Component
-public class CacheService {
+public interface CacheService {
 
-    @Cacheable(value = "user", key = "123")
-    public String getCache() {
-        return "测试缓存";
-    }
+    String get(String key);
+
+    void delete(String key);
+
+    String put(String key, String value);
 }
