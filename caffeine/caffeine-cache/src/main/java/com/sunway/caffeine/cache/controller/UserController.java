@@ -1,9 +1,13 @@
 package com.sunway.caffeine.cache.controller;
 
+import com.sunway.caffeine.cache.cache.CacheStragyA;
+import com.sunway.caffeine.cache.cache.CacheUtil;
 import com.sunway.caffeine.cache.entity.User;
+import com.sunway.caffeine.cache.service.TestService;
 import com.sunway.caffeine.cache.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -20,6 +24,12 @@ public class UserController {
     @Autowired
     private UserService userService;
 
+    @Autowired
+    private CacheUtil cacheService;
+
+    @Autowired
+    private TestService testService;
+
     @GetMapping("/users")
     @ResponseBody
     public void users() throws Exception {
@@ -32,5 +42,13 @@ public class UserController {
         return userService.get(110L);
     }
 
+    @PostMapping("/get")
+    public Object getCache(){
+        return userService.get(110L);
+    }
 
+    @PostMapping("/getA")
+    public Object getCacheA(){
+        return testService.get(110L);
+    }
 }

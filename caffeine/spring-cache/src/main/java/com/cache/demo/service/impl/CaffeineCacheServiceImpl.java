@@ -1,6 +1,6 @@
 package com.cache.demo.service.impl;
 
-import com.cache.demo.service.CacheService;
+import com.cache.demo.service.CaffeineCacheService;
 import org.springframework.cache.annotation.CacheEvict;
 import org.springframework.cache.annotation.CachePut;
 import org.springframework.cache.annotation.Cacheable;
@@ -14,7 +14,7 @@ import org.springframework.stereotype.Service;
  * @Version: 1.0
  */
 @Service
-public class CaffeineCacheServiceImpl implements CacheService {
+public class CaffeineCacheServiceImpl implements CaffeineCacheService {
 
     private final String CACHE_NAME = "test_cache";
 

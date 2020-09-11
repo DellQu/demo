@@ -7,14 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-cache" />
+        <module name="caffeine-cache" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="caffeine-cache" target="1.8" />
       <module name="spring-cache" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="caffeine-cache" options="-parameters" />
       <module name="spring-cache" options="-parameters" />
     </option>
   </component>

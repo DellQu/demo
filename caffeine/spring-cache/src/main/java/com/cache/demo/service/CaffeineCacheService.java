@@ -1,16 +1,13 @@
 package com.cache.demo.service;
 
-import org.springframework.cache.annotation.Cacheable;
-import org.springframework.stereotype.Component;
-
 /**
- * @ClassName: CacheService
+ * @ClassName: CaffeineCacheService
  * @Description: TODO
  * @Author: qudi
- * @Date: 2020/9/8 17:59
+ * @Date: 2020/9/11 10:05
  * @Version: 1.0
  */
-public interface CacheService {
+public interface CaffeineCacheService {
 
     String get(String key);
 
