@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b16fbd5-b2ac-4af3-a94d-3cfc47393441" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../caffeine/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/.idea/libraries/Maven__com_alibaba_nacos_nacos_api_0_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/.idea/libraries/Maven__com_alibaba_nacos_nacos_client_0_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/.idea/libraries/Maven__com_alibaba_nacos_nacos_common_0_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/.idea/libraries/Maven__io_micrometer_micrometer_core_1_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_lgpl_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_lgpl_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_alibaba_nacos_config_0_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_alibaba_nacos_config_0_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/caffeine-cache/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/caffeine-cache/.idea/caffeine-cache.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/caffeine-cache/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/caffeine-cache/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/caffeine-cache/src/main/java/com/sunway/caffeine/cache/cache/SpringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/caffeine-cache/src/main/java/com/sunway/caffeine/cache/service/CaffeineCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/caffeine-cache/src/main/java/com/sunway/caffeine/cache/service/CaffeineCacheStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/caffeine-cache/src/main/java/com/sunway/caffeine/cache/service/impl/AlarmBasicRealCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caffeine/caffeine-cache/src/main/java/com/sunway/caffeine/cache/service/impl/LongName2Id.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_nacos_nacos_api_0_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_nacos_nacos_client_0_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_nacos_nacos_common_0_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_lgpl_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_lgpl_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_alibaba_nacos_config_0_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_alibaba_nacos_config_0_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/nacos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-nacos-config/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-nacos-config/spring-cloud-nacos-config.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-nacos-config/src/main/java/com/qud/demo/NacosConfigApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-nacos-config/src/main/java/com/qud/demo/config/SchoolConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-nacos-config/src/main/java/com/qud/demo/controller/ConfigController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-nacos-config/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/caffeine-cache/src/main/java/com/sunway/caffeine/cache/CaffeineCacheApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeine/caffeine-cache/src/main/java/com/sunway/caffeine/cache/CaffeineCacheApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/caffeine-cache/src/main/java/com/sunway/caffeine/cache/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeine/caffeine-cache/src/main/java/com/sunway/caffeine/cache/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/caffeine-cache/target/classes/META-INF/caffeine-cache.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/caffeine-cache/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/caffeine-cache/target/classes/com/sunway/caffeine/cache/CaffeineCacheApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/caffeine-cache/target/classes/com/sunway/caffeine/cache/cache/CacheStragy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/caffeine-cache/target/classes/com/sunway/caffeine/cache/cache/CacheStragyA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/caffeine-cache/target/classes/com/sunway/caffeine/cache/cache/CacheUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/caffeine-cache/target/classes/com/sunway/caffeine/cache/cache/DefaultCacheStragy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/caffeine-cache/target/classes/com/sunway/caffeine/cache/config/CacheContainer$DataLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/caffeine-cache/target/classes/com/sunway/caffeine/cache/config/CacheContainer$MyRemovalListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/caffeine-cache/target/classes/com/sunway/caffeine/cache/config/CacheContainer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/caffeine-cache/target/classes/com/sunway/caffeine/cache/config/CacheOptions$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/caffeine-cache/target/classes/com/sunway/caffeine/cache/config/CacheOptions$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/caffeine-cache/target/classes/com/sunway/caffeine/cache/config/CacheOptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/caffeine-cache/target/classes/com/sunway/caffeine/cache/config/CacheService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/caffeine-cache/target/classes/com/sunway/caffeine/cache/config/DefaultCacheContainer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/caffeine-cache/target/classes/com/sunway/caffeine/cache/config/Persistable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/caffeine-cache/target/classes/com/sunway/caffeine/cache/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/caffeine-cache/target/classes/com/sunway/caffeine/cache/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/caffeine-cache/target/classes/com/sunway/caffeine/cache/service/TestService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/caffeine-cache/target/classes/com/sunway/caffeine/cache/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/caffeine-cache/target/test-classes/com/sunway/caffeine/cache/CaffeineCacheApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/spring-cache/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeine/spring-cache/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/spring-cache/spring-cache.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeine/spring-cache/spring-cache.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/spring-cache/src/main/java/com/cache/demo/controller/CacheController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeine/spring-cache/src/main/java/com/cache/demo/controller/CacheController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/spring-cache/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeine/spring-cache/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/spring-cache/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeine/spring-cache/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caffeine/spring-cache/target/classes/com/cache/demo/controller/CacheController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../caffeine/spring-cache/target/classes/com/cache/demo/controller/CacheController.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven-Repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hXTGxaFHTQZk6jC7kigDbFPb6C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3505747" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="NacosConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-nacos-config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qud.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qud.demo.NacosConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.NacosConfigApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b16fbd5-b2ac-4af3-a94d-3cfc47393441" name="Default Changelist" comment="" />
+      <created>1600156344557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600156344557</updated>
+      <workItem from="1600156346006" duration="46000" />
+      <workItem from="1600156397006" duration="2436000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1600156526929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1600156526929" />
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1600157581262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600157581262" />
+    <state x="874" y="377" key="FileChooserDialogImpl" timestamp="1600156387476">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="874" y="377" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600156387476" />
+    <state width="1877" height="356" key="GridCell.Tab.0.bottom" timestamp="1600158999223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600158999223" />
+    <state width="1877" height="356" key="GridCell.Tab.0.center" timestamp="1600158999223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600158999223" />
+    <state width="1877" height="356" key="GridCell.Tab.0.left" timestamp="1600158999223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600158999223" />
+    <state width="1877" height="356" key="GridCell.Tab.0.right" timestamp="1600158999223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600158999223" />
+    <state width="1877" height="356" key="GridCell.Tab.1.bottom" timestamp="1600158999223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600158999223" />
+    <state width="1877" height="356" key="GridCell.Tab.1.center" timestamp="1600158999223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600158999223" />
+    <state width="1877" height="356" key="GridCell.Tab.1.left" timestamp="1600158999223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600158999223" />
+    <state width="1877" height="356" key="GridCell.Tab.1.right" timestamp="1600158999223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600158999223" />
+    <state width="1877" height="356" key="GridCell.Tab.2.bottom" timestamp="1600158999223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600158999223" />
+    <state width="1877" height="356" key="GridCell.Tab.2.center" timestamp="1600158999223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600158999223" />
+    <state width="1877" height="356" key="GridCell.Tab.2.left" timestamp="1600158999223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600158999223" />
+    <state width="1877" height="356" key="GridCell.Tab.2.right" timestamp="1600158999223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600158999223" />
+    <state x="595" y="188" key="SettingsEditor" timestamp="1600156614119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="595" y="188" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600156614119" />
+    <state x="593" y="180" key="new project wizard" timestamp="1600156428710">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="593" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1600156428710" />
+    <state x="795" y="296" key="spring file set editor" timestamp="1600156611167">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="795" y="296" key="spring file set editor/0.0.1920.1040@0.0.1920.1040" timestamp="1600156611167" />
+  </component>
+</project>

@@ -19,4 +19,6 @@ public abstract class CaffeineCacheStragy{
    public abstract Object put(Object key, Object value);
 
    public abstract void delete(Object key);
+
+   public abstract Object getAll();
 }

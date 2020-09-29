@@ -1,10 +1,12 @@
 package com.sunway.caffeine.cache.controller;
 
-import com.sunway.caffeine.cache.cache.CacheStragyA;
 import com.sunway.caffeine.cache.cache.CacheUtil;
 import com.sunway.caffeine.cache.entity.User;
+import com.sunway.caffeine.cache.service.CaffeineCache;
 import com.sunway.caffeine.cache.service.TestService;
 import com.sunway.caffeine.cache.service.UserService;
+import com.sunway.caffeine.cache.service.impl.AlarmBasicRealCache;
+import com.sunway.caffeine.cache.service.impl.LongName2Id;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -25,7 +27,10 @@ public class UserController {
     private UserService userService;
 
     @Autowired
-    private CacheUtil cacheService;
+    private CacheUtil cacheUtil;
+
+    @Autowired
+    private CaffeineCache caffeineCache;
 
     @Autowired
     private TestService testService;
@@ -44,7 +49,11 @@ public class UserController {
 
     @PostMapping("/get")
     public Object getCache(){
-        return userService.get(110L);
+        caffeineCache.setCaffeineCacheStrategy(new AlarmBasicRealCache());
+        System.out.println(caffeineCache.get("123"));
+        caffeineCache.setCaffeineCacheStrategy(new LongName2Id());
+        System.out.println(caffeineCache.get("123"));
+        return "成功";
     }
 
     @PostMapping("/getA")

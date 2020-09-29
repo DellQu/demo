@@ -14,4 +14,6 @@ public interface CaffeineCacheService {
     void delete(String key);
 
     String put(String key, String value);
+
+    Object getAll(String key);
 }

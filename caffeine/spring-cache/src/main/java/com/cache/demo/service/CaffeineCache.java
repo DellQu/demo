@@ -27,4 +27,12 @@ public class CaffeineCache {
     public Object get(Object key) {
         return caffeineCacheStragy.get(key);
     }
+
+    public Object put(Object key, Object value) {
+        return caffeineCacheStragy.put(key, value);
+    }
+
+    public Object getAll() {
+        return caffeineCacheStragy.getAll();
+    }
 }

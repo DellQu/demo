@@ -53,4 +53,9 @@ public class DefaultCaffeineCacheStragy extends CaffeineCacheStragy {
     public void delete(Object key) {
         cache.evict(key);
     }
+
+    @Override
+    public Object getAll() {
+        return cache.getNativeCache();
+    }
 }
